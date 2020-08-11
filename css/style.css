@@ -1,0 +1,49 @@
+ .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+
+      }
+      body{
+         background: linear-gradient(to right,pink 60%,#D7787C);
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      footer {
+        font-size: 0.75em;
+        text-align: center;
+        clear: both;
+        padding-top:2em;
+        padding-bottom: 2em;
+        color: #F1E9E9  ;
+      }
+
+      .jumbotron {
+           background: linear-gradient(to right, white 20%,pink);
+
+      }
+
+      .album {
+        background: linear-gradient(to right, white 20%,pink);
+      }
+
+      .Precio{
+        text-align: center;
+        color: #833AAA;
+        font-size: 20px;
+      }
+
+      #myCarousel{
+       width: 31%;
+       max-width: auto;
+       margin: 0px auto;
+      }
+ 
